@@ -1,24 +1,6 @@
-Felipe, analisei seu notebook a fundo. O trabalho está tecnicamente impecável: você seguiu o CRISP-DM, fez testes estatísticos sérios (ANOVA/OLS) e tomou decisões de negócio baseadas em dados (Backward Elimination).
-
-Se as imagens não estão aparecendo, **99% das vezes é um problema de "Caminho" ou de "Maiúsculas/Minúsculas"** (o GitHub diferencia `Img` de `img`, o Windows não).
-
-Abaixo, preparei a **solução definitiva** para as imagens e o **README Final** digno de um Cientista de Dados Sênior.
-
-### 🔧 Solução para as Imagens (Faça isso primeiro)
-
-Para garantir que o GitHub exiba as imagens, vamos usar o **Link Absoluto (Raw)**. Isso elimina qualquer erro de pasta relativa.
-
-**Copie e cole este código EXATAMENTE como está no seu arquivo `README.md`.**
-
----
 
 ```markdown
 # 📊 Student Performance Prediction: Análise de Desempenho Escolar
-
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Statsmodels](https://img.shields.io/badge/Statsmodels-Statistics-green?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge)
 
 ## 📄 Sobre o Projeto
 
@@ -130,5 +112,4 @@ jupyter notebook notebooks/student_performance.ipynb
 **Felipe Tamiozzo** 💼 [LinkedIn](https://www.google.com/search?q=https://linkedin.com/in/felipetamiozzo/) | 🐱 [GitHub](https://github.com/felipetamiozzo)
 
 ```
-
 
