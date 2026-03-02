@@ -2,11 +2,6 @@
 ```markdown
 # 🎓 Student Performance Prediction: Análise Estratégica de Desempenho Escolar
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Statsmodels](https://img.shields.io/badge/Statsmodels-Statistics-green?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge)
-
 ## 📄 Sobre o Projeto
 
 Este projeto utiliza Ciência de Dados para prever notas finais de estudantes e, mais importante, **diagnosticar as causas do sucesso ou fracasso escolar**.
