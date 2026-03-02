@@ -1,0 +1,21 @@
+#mbientes Virtuais (Pesadíssimos, nunca suba isso!)
+venv/
+env/
+.env
+
+#Arquivos Compilados do Python (Lixo de sistema)
+__pycache__/
+*.pyc
+*.pyo
+
+#Checkpoints do Jupyter Notebook (Backups automáticos desnecessários)
+.ipynb_checkpoints/
+
+
+#Arquivos de Sistema Operacional (Lixo do Mac/Windows)
+.DS_Store
+Thumbs.db
+
+#IDEs e Editores
+.vscode/
+.idea/
