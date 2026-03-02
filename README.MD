@@ -115,7 +115,7 @@ Recomendações para a Escola baseadas nos dados:
 
 1. **Clone o repositório:**
 ```bash
-git clone [https://github.com/felipetamiozzo/-student-performance-prediction.git](https://github.com/felipetamiozzo/-student-performance-prediction.git)
+git clone [https://github.com/felipetamiozzo/student-performance-prediction.git](https://github.com/felipetamiozzo/student-performance-prediction.git)
 
 ```
 
